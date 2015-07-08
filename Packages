@@ -1,0 +1,15 @@
+Package: com.sleestak.melon
+Name: Melon
+Architecture: iphoneos-arm
+Depiction: http://sleestak.github.io/Depic/com.sleestak.melon/index.html
+Maintainer: Sleestak <sleestakdesigns@gmail.com>
+Author: Sleestak <sleestakdesigns@gmail.com>
+Version: 0.1
+Section: Themes
+Depends: iconbundles
+Filename: debs//com.sleestak.melon.deb
+Size: 2318528
+MD5sum: 6a41a6b18393c24296d68920b46ef8d6
+Sponsor: 
+Description: A uniformily colorful theme for all iOS 8 devices.
+
