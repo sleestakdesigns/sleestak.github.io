@@ -1,0 +1,9 @@
+Origin: Sleestak's Repo
+Label: Sleestak's Repo
+Suite: stable
+Version: 1.0
+Codename: Sleestak
+Architectures: iphoneos-arm
+Components: main
+Description: Sleestak's Repo
+MD5Sum: 
