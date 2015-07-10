@@ -1,11 +1,13 @@
-Package: com.myrepospace.melon
+Package: com.sleestak.Melon
 Name: Melon
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
-Description: A uniformily colorful theme for all iOS 8 devices.
-Homepage: http://myrepospace.com
-Maintainer: Sleestak
-Author: Sleestak <http://www.myrepospace.com/profile/sleestak>
+Depends: winterboard, com.codethemed.iconbundles
+Description: A uniform & colorful theme for all iOS 8 devices.
+Depiction: 
+Maintainer: Sleestak <sleestakdesigns@gmail.com>
+Author: Sleestak <sleestakdesigns@gmail.com>
 Section: Themes
-Depends: com.codethemed.iconbundles, winterboard
-
+Filename: debs//com.sleestak.Melon.deb
+Size: 1796220
+MD5Sum: FEE2C80F899988D9656A490F56505A97
